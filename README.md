@@ -1,5 +1,5 @@
-# Grip-The-Sparks-Foundation
-Task 1
+# Grip-The-Sparks-Foundation Task 1
+
 The following code is written for my internship at the The Sparks Foundation
 This code shows Prediction using Supervised ML.
 The dataset contains two variables i.e Hours and Scores.
